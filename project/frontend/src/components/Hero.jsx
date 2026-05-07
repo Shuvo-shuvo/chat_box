@@ -19,7 +19,7 @@ function Hero() {
         </span>
       </h1>
       <p style={{ color: 'var(--text3)', fontSize: 15, maxWidth: 480, margin: '0 auto', lineHeight: 1.6 }}>
-        AI-powered recommendations across DPS, FDR, Government Bonds, and more — curated for Bangladesh investors.
+        AI-powered recommendations across 100+ Bangladesh investment schemes. Personalized strategies for DPS, FDR, Government Bonds, and more.
       </p>
     </div>
   )

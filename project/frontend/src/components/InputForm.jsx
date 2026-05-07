@@ -95,7 +95,7 @@ function InputForm({ onSubmit, loading }) {
           Your Financial Profile
         </h2>
         <p style={{ color: 'var(--text3)', fontSize: 13, marginTop: 4, fontFamily: 'var(--font-mono)' }}>
-          Fill in your details — our AI will analyse 41 Bangladesh schemes for you
+          Fill in your details — our AI will analyse 100+ Bangladesh schemes for you
         </p>
       </div>
 

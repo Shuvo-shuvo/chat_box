@@ -28,7 +28,7 @@ function LoadingState() {
         opacity: 0.6,
         marginTop: 6,
       }}>
-        Analysing 41 Bangladesh schemes with AI...
+        Analysing 100+ Bangladesh schemes with AI...
       </div>
     </div>
   )

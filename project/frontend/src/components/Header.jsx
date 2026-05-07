@@ -36,7 +36,7 @@ function Header() {
               BDT Robo-Advisor
             </div>
             <div style={{ fontFamily: 'var(--font-mono)', fontSize: 10, color: 'var(--text3)', letterSpacing: '0.06em' }}>
-              BANGLADESH · 41 SCHEMES
+              BANGLADESH · 100+ SCHEMES
             </div>
           </div>
         </div>
