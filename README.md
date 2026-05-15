@@ -1,5 +1,6 @@
 # 🏦 BDT Robo-Advisor — Bangladesh Investment Recommendation App
-Live Project_Showcase:https://chat-box-thrt-git-main-sazzadul-islam-shuvos-projects.vercel.app/
+Live Project_Showcase:
+https://robo-advisor-l85g.vercel.app/
 
 A full-stack AI-powered financial advisor that recommends the top 5 investment schemes for Bangladesh investors using a curated dataset of 41 real schemes (DPS, FDR, Government Bonds, Mutual Funds, etc.).
 
